@@ -16,11 +16,12 @@ footer{
     color: rgb(145, 135, 135);
     font-weight: 200;
 }
-body{
+main{
     height: 100vh;
     width: 1000px;
-    margin: 0 auto;
-    box-shadow: 2px 2px 2px 1px black;
+    margin: 10px auto;
+    border: 2px solid black;
+
 }
 .nom{
     font-weight: bold;
